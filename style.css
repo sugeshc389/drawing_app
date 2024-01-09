@@ -137,6 +137,7 @@ section {
 .option #color-picker {
   opacity: 0;
   cursor: pointer;
+  
 }
 
 .buttons button {
